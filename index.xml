@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generic Talks</title>
+    <link>https://generictalks.com/</link>
+    <description>Recent content on Generic Talks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Dec 2019 20:27:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://generictalks.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generic Talks Episode 3</title>
+      <link>https://generictalks.com/posts/post-3/</link>
+      <pubDate>Tue, 17 Dec 2019 20:27:59 +0000</pubDate>
+      
+      <guid>https://generictalks.com/posts/post-3/</guid>
+      <description>И вот 3й выпуск подкаста Generic Talks. С вами Богдан и Олег!
+  0:00 - интро
+  0:10 - High &amp;amp; Mid IR в Rust, а так же LLVM и компиляция кода
+  16:54 - Compiler &amp;lt;-&amp;gt; GC
+  27:30 - академический код
+  33:05 - асинхронный код
+  44:55 - грустная заметка про Nginx
+  45:44 - а может Nginx на Rust? и грустные реалии</description>
+    </item>
+    
+    <item>
+      <title>Generic Talks Episode 2</title>
+      <link>https://generictalks.com/posts/post-2/</link>
+      <pubDate>Mon, 09 Dec 2019 19:03:21 +0000</pubDate>
+      
+      <guid>https://generictalks.com/posts/post-2/</guid>
+      <description>2й выпуск подкаста Generic Talks. С вами Олег, Богдан и даже Искандер!
+ 0:00 - интро 0:10 - аннотация ошибок в го 11:00 - контроль ресурсов (хотя там и ошибки, и аллокаторы, и кодген) 25:10 - кодогенерация (привет t.me/teamerlin :) 39:14 - пропозал про встраивание данных в го + опять модули 49:52 - решаем инженерные проблемы аргументируя их безопасностью 1:02:05 - про безопасность и как пишутся крипто-алгоритмы 1:07:52 - следующий выпуск  </description>
+    </item>
+    
+    <item>
+      <title>Generic Talks Episode 1</title>
+      <link>https://generictalks.com/posts/post-1/</link>
+      <pubDate>Mon, 02 Dec 2019 17:32:16 +0000</pubDate>
+      
+      <guid>https://generictalks.com/posts/post-1/</guid>
+      <description>Всем привет и добро пожаловать в 1й выпуск подкаста Generic Talks. С вами Олег и Богдан.
+(Богдан сказал, что это 2й выпуск, потому что 1й мы решили перезаписать)
+ 0:00 - интро 1:32 - будущее языков 6:52 - скрытая сложность 15:00 - о языках (pony, zig) 28:00 - аллокаторы 33:35 - aeron (not a chair) 39:30 - generics 45:30 - try proposal 57:10 - следующий выпуск  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://generictalks.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://generictalks.com/about/</guid>
+      <description>Ведущие:
+ Олег Ковалев Богдан Сторожук Искандер Шарипов  Уважаемые гости:
+ Данил Кутенин  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://generictalks.com/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://generictalks.com/links/</guid>
+      <description>Соцсети где можно нас найти:
+  @GenericTalks
+  #GenericTalks
+  Telegram
+  VK
+  Facebook
+  Где послушать:
+  SoundCloud
+  iTunes
+  Spotify
+  Overcast
+  Google Podcasts
+  VK
+  Техподдержка:
+ Github  </description>
+    </item>
+    
+  </channel>
+</rss>

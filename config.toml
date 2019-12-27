@@ -1,0 +1,153 @@
+baseURL = "https://generictalks.com"
+languageCode = "ru-ru"
+title = "Generic Talks Подкаст"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Generic Talks"
+    description = "Душевные беседы о программировании и смежных темах. Говорим о коде: высоко- и низкоуровневых вещах, правильном использовании технологий и, конечно, производительности. Любим Go и уважаем другие языки."
+    keywords = ""
+    # info = "Generic Talks Podcast"
+    info = "Душевные беседы о программировании. Говорим о коде: высоко- и низкоуровневых вещах. Любим Go и уважаем другие языки."
+    avatarurl = "images/ava.png"
+    # footercontent = "Enter a text here."
+
+    dateformat = "January 2, 2006"
+
+    hideCredits = true
+    hideCopyright = false
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    # commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    # rtl = false
+
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "light"
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    # Custom CSS
+    custom_css = []
+    
+    # Custom JS
+    custom_js = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[params.social]]
+    name = "RSS"
+    icon = "icon fas fa-2x fa-rss"
+    weight = 1
+    url = "https://generictalks.com/feed.rss"
+[[params.social]]
+    name = "SoundCloud"
+    icon = "icon fab fa-2x fa-soundcloud"
+    weight = 3
+    url = "https://soundcloud.com/generictalks"
+[[params.social]]
+    name = "iTunes"
+    icon = "icon fab fa-2x fa-itunes"
+    weight = 3
+    url = "https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299"
+[[params.social]]
+    name = "Spotify"
+    icon = "icon fab fa-2x fa-spotify"
+    weight = 3
+    url = "https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c"
+[[params.social]]
+    name = "Overcast"
+    icon = "icon fas fa-2x fa-podcast"
+    weight = 3
+    url = "https://overcast.fm/itunes1489980299/generic-talks"
+[[params.social]]
+    name = "Twitter"
+    icon = "icon fab fa-2x fa-twitter"
+    weight = 3
+    url = "https://twitter.com/generictalks"
+[[params.social]]
+    name = "Telegram"
+    icon = "icon fab fa-2x fa-telegram"
+    weight = 3
+    url = "https://t.me/generictalks"
+
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+
+            [[languages.en.menu.main]]
+            name = "О нас"
+            weight = 1
+            url = "about/"
+
+            [[languages.en.menu.main]]
+            name = "Выпуски"
+            weight = 2
+            url = "episodes/"
+
+            [[languages.en.menu.main]]
+            name = "Ссылки"
+            weight = 3
+            url = "links/"
+
+            [[languages.en.menu.main]]
+            name = "Связаться"
+            weight = 4
+            url = "mailto:podcast@olegk.dev"
+
+#    [languages]
+#        languagename = "Русский"
+#        title = "Generic Talks подкаст"
+#
+#        [languages.ru-ru.params]
+#            author = "Oleg Kovalov"
+#            info = "Generic Talks подкаст"
+#            description = "Sítio pessoal de João Ninguém"
+#            keywords = "blog,desenvolvedor,pessoal"
+#            # footercontent = "Coloque algum texto aqui."
+#
+#        [languages.ru-ru.menu]
+#
+#            [[languages.ru-ru.menu.main]]
+#            name = "О нас"
+#            weight = 1
+#            url = "about/"
+#
+#            [[languages.ru-ru.menu.main]]
+#            name = "Выпуски"
+#            weight = 2
+#            url = "episodes/"
+#
+#            [[languages.ru-ru.menu.main]]
+#            name = "Ссылки"
+#            weight = 3
+#            url = "links/"
+#
+#            [[languages.ru-ru.menu.main]]
+#            name = "Контакты"
+#            weight = 5
+#            url = "mailto:podcast@olegk.dev"

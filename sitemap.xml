@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://generictalks.com/</loc>
+    <lastmod>2019-12-17T20:27:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/posts/post-3/</loc>
+    <lastmod>2019-12-17T20:27:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/posts/</loc>
+    <lastmod>2019-12-17T20:27:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/posts/post-2/</loc>
+    <lastmod>2019-12-09T19:03:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/posts/post-1/</loc>
+    <lastmod>2019-12-02T17:32:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/links/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://generictalks.com/tags/</loc>
+  </url>
+  
+</urlset>
