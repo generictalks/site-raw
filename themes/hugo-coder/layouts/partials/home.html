@@ -22,5 +22,22 @@
       {{ end }}
     </ul>
     {{ end }}
+    {{ with .Site.Params.social2 }}
+    <ul>
+      {{ range sort .}}
+        {{ if .icon }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>
+              <i class="{{ .icon }}" aria-hidden="true"></i>
+            </a>
+          </li>
+        {{ else }}
+          <li>
+            <a href="{{ .url }}" aria-label="{{ .name }}" {{ if .rel }}rel="{{ .rel }}"{{ end }} {{ if .target }}target="{{ .target }}"{{ end }}>{{ .name }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    {{ end }}
   </div>
 </section>

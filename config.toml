@@ -56,11 +56,22 @@ disqusShortname = "yourdiscussshortname"
   series = "series"
   tag = "tags"
 
-[[params.social]]
+[[params.social2]]
     name = "RSS"
     icon = "icon fas fa-2x fa-rss"
     weight = 1
     url = "https://generictalks.com/feed.rss"
+[[params.social2]]
+    name = "Twitter"
+    icon = "icon fab fa-2x fa-twitter"
+    weight = 3
+    url = "https://twitter.com/generictalks"
+[[params.social2]]
+    name = "Telegram"
+    icon = "icon fab fa-2x fa-telegram"
+    weight = 3
+    url = "https://t.me/generictalks"
+
 [[params.social]]
     name = "SoundCloud"
     icon = "icon fab fa-2x fa-soundcloud"
@@ -81,17 +92,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "icon fas fa-2x fa-podcast"
     weight = 3
     url = "https://overcast.fm/itunes1489980299/generic-talks"
-[[params.social]]
-    name = "Twitter"
-    icon = "icon fab fa-2x fa-twitter"
-    weight = 3
-    url = "https://twitter.com/generictalks"
-[[params.social]]
-    name = "Telegram"
-    icon = "icon fab fa-2x fa-telegram"
-    weight = 3
-    url = "https://t.me/generictalks"
-
 
 [languages]
     [languages.en]
