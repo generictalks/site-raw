@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:702018677/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:702018677/sounds.rss?before=721670086" rel="next" type="application/rss+xml"/>
+        <title>Generic Talks</title>
+        <link>https://generictalks.com</link>
+        <pubDate>Tue, 24 Dec 2019 08:58:30 +0000</pubDate>
+        <lastBuildDate>Tue, 24 Dec 2019 08:58:30 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ru</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Душевные беседы о программировании и смежных темах. Говорим о коде: высоко-  и низкоуровневых вещах, правильном использовании технологий и, конечно, производительности.</description>
+        <itunes:subtitle>Душевные беседы о программировании и смежных темах</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Generic Talks</itunes:name>
+            <itunes:email>podcast@olegk.dev</itunes:email>
+        </itunes:owner>
+        <itunes:author>Generic Talks</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000694797835-c12iav-original.jpg"/>
+        <image>
+            <url>http://i1.sndcdn.com/avatars-000694797835-c12iav-original.jpg</url>
+            <title>Generic Talks</title>
+            <link>https://generictalks.com</link>
+        </image>
+        <itunes:category text="Technology"/>
+
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/733320718</guid>
+            <title>#4 - C++ и в гостях Данила Кутенин</title>
+            <pubDate>Tue, 24 Dec 2019 08:58:30 +0000</pubDate>
+            <link>https://soundcloud.com/generictalks/c-i-v-gostyakh-danila-kutenin</link>
+            <itunes:duration>01:26:11</itunes:duration>
+            <itunes:author>Generic Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Generic Talks 0004
+
+Да, еще 1 выпуск с Олегом, Богданом, Искандером. Говорили о C++ с нашим первым гостем Данилом (а еще он пишет о крутых вещах в блоге, советуем https://t.me/experimentalchill)
+
+00:00 - Гость Данила и его кресты)
+06:50 - Почему в С++ все пишут свои корутины и хеш мапы.
+11:16 - Стандартная библиотека против Abseil.
+13:52 - Программисты оптимизируют свой код под библиотеки а не наоборот 🤷🏻‍♂️
+15:57 - Кастомные алокаторы в C++, Zig и Go
+24:00 - Санитайзеры в плюсах и ядре Linux
+27:40 - Читаем асемблер и считаем регистры в уме 🙃
+40:26 - Что делать если твой язык слишком сложный. Будущее С++. Переход на новые стандарты и депрекейшн
+53:18 - Корутины, горутины и цена рантайма
+58:35 - На каком уровне мы мыслим и уровень абстракций в языках
+1:03:10 - О расширениях к С при помощи GCC
+1:08:50 - C++ ranges, совместимость и поддержка в будущем
+1:14:14 - Ускоряем С++ без смс
+1:17:55 - Мета-вопрос о подкасте, а потом мысли вслух и планы на след выпуск.</itunes:summary>
+            <itunes:subtitle>Generic Talks 0004 - C++ и в гостях Данила Кутенин</itunes:subtitle>
+            <description>Generic Talks 0004
+
+Да, еще 1 выпуск с Олегом, Богданом, Искандером. Говорили о C++ с нашим первым гостем Данилом (а еще он пишет о крутых вещах в блоге, советуем https://t.me/experimentalchill)
+
+00:00 - Гость Данила и его кресты)
+06:50 - Почему в С++ все пишут свои корутины и хеш мапы.
+11:16 - Стандартная библиотека против Abseil.
+13:52 - Программисты оптимизируют свой код под библиотеки а не наоборот 🤷🏻‍♂️
+15:57 - Кастомные алокаторы в C++, Zig и Go
+24:00 - Санитайзеры в плюсах и ядре Linux
+27:40 - Читаем асемблер и считаем регистры в уме 🙃
+40:26 - Что делать если твой язык слишком сложный. Будущее С++. Переход на новые стандарты и депрекейшн
+53:18 - Корутины, горутины и цена рантайма
+58:35 - На каком уровне мы мыслим и уровень абстракций в языках
+1:03:10 - О расширениях к С при помощи GCC
+1:08:50 - C++ ranges, совместимость и поддержка в будущем
+1:14:14 - Ускоряем С++ без смс
+1:17:55 - Мета-вопрос о подкасте, а потом мысли вслух и планы на след выпуск.</description>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/733320718-generictalks-c-i-v-gostyakh-danila-kutenin.mp3" length="124122929"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000657825829-q5luq0-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/729632149</guid>
+            <title>#3 - Rust &amp; LLVM</title>
+            <pubDate>Tue, 17 Dec 2019 20:19:40 +0000</pubDate>
+            <link>https://soundcloud.com/generictalks/generic-talks-episode-3</link>
+            <itunes:duration>00:58:29</itunes:duration>
+            <itunes:author>Generic Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>И вот 3й выпуск подкаста Generic Talks. С вами Богдан и Олег!
+
+Соцсети где нас найти:
+
+t.me/generictalks
+twitter.com/generictalks
+vk.com/generictalks
+www.facebook.com/generictalks
+
+0:00 - интро
+0:10 - High &amp; Mid IR в Rust, а так же LLVM и компиляция кода
+16:54 - Compiler &lt;-&gt; GC
+27:30 - академический код
+33:05 - асинхронный код
+44:55 - грустная заметка про Nginx
+45:44 - а может Nginx на Rust? и грустные реалии
+51:10 - длинная арифметика в Go
+57:49 - лирическое отступление</itunes:summary>
+      <itunes:subtitle>И вот 3й выпуск подкаста Generic Talks. С вами Бо…</itunes:subtitle>
+      <description>И вот 3й выпуск подкаста Generic Talks. С вами Богдан и Олег!
+
+Соцсети где нас найти:
+
+t.me/generictalks
+twitter.com/generictalks
+vk.com/generictalks
+www.facebook.com/generictalks
+
+0:00 - интро
+0:10 - High &amp; Mid IR в Rust, а так же LLVM и компиляция кода
+16:54 - Compiler &lt;-&gt; GC
+27:30 - академический код
+33:05 - асинхронный код
+44:55 - грустная заметка про Nginx
+45:44 - а может Nginx на Rust? и грустные реалии
+51:10 - длинная арифметика в Go
+57:49 - лирическое отступление</description>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/729632149-generictalks-generic-talks-episode-3.mp3" length="84225172"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000653878723-hdnbwg-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/725315218</guid>
+            <title>#2 - Кодген, аллокаторы и ошибки</title>
+            <pubDate>Mon, 09 Dec 2019 18:55:14 +0000</pubDate>
+            <link>https://soundcloud.com/generictalks/generic-talks-episode-2</link>
+            <itunes:duration>01:09:35</itunes:duration>
+            <itunes:author>Generic Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>2й выпуск подкаста Generic Talks. С вами Олег, Богдан и даже Искандер!
+
+Соцсети где нас найти:
+
+t.me/generictalks
+twitter.com/generictalks
+vk.com/generictalks
+www.facebook.com/generictalks
+
+0:00 - интро
+0:10 - аннотация ошибок в го
+11:00 - контроль ресурсов (хотя там и ошибки, и аллокаторы, и кодген)
+25:10 - кодогенерация (привет https://t.me/teamerlin :)
+39:14  - пропозал про встраивание данных в го + опять модули
+49:52 - решаем инженерные проблемы аргументируя их безопасностью
+1:02:05 - про безопасность и как пишутся крипто-алгоритмы
+1:07:52 - следующий выпуск</itunes:summary>
+      <itunes:subtitle>2й выпуск подкаста Generic Talks. С вами Олег, Бо…</itunes:subtitle>
+      <description>2й выпуск подкаста Generic Talks. С вами Олег, Богдан и даже Искандер!
+
+Соцсети где нас найти:
+
+t.me/generictalks
+twitter.com/generictalks
+vk.com/generictalks
+www.facebook.com/generictalks
+
+0:00 - интро
+0:10 - аннотация ошибок в го
+11:00 - контроль ресурсов (хотя там и ошибки, и аллокаторы, и кодген)
+25:10 - кодогенерация (привет https://t.me/teamerlin :)
+39:14  - пропозал про встраивание данных в го + опять модули
+49:52 - решаем инженерные проблемы аргументируя их безопасностью
+1:02:05 - про безопасность и как пишутся крипто-алгоритмы
+1:07:52 - следующий выпуск</description>
+            <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/725315218-generictalks-generic-talks-episode-2.mp3" length="100271328"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000649708453-0xti6p-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/721670086</guid>
+            <title>#1 Начнём</title>
+            <pubDate>Mon, 02 Dec 2019 16:07:12 +0000</pubDate>
+            <link>https://soundcloud.com/generictalks/episode-1</link>
+            <itunes:duration>00:59:29</itunes:duration>
+            <itunes:author>Generic Talks</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Всем привет и добро пожаловать в 1й выпуск подкаста Generic Talks. С вами Олег и Богдан.
+
+Так же мы есть в Телеграме, Твиттере, ВКонтакте и Фейсбуке (ах да, еще Soundclous и iTunes)
+
+https://t.me/generictalks
+https://twitter.com/generictalks
+https://vk.com/generictalks
+https://www.facebook.com/generictalks
+
+(Богдан сказал, что это 2й выпуск, потому что 1й мы решили перезаписать)
+
+0:00 - интро
+1:32 - будущее языков
+6:52 - скрытая сложность
+15:00 - о языках (pony, zig)
+28:00 - аллокаторы
+33:35 - aeron (not a chair)
+39:30 - generics
+45:30 - try proposal
+57:10 - следующий выпуск</itunes:summary>
+      <itunes:subtitle>Всем привет и добро пожаловать в 1й выпуск подкас…</itunes:subtitle>
+      <description>Всем привет и добро пожаловать в 1й выпуск подкаста Generic Talks. С вами Олег и Богдан.
+
+Так же мы есть в Телеграме, Твиттере, ВКонтакте и Фейсбуке (ах да, еще Soundclous и iTunes)
+
+https://t.me/generictalks
+https://twitter.com/generictalks
+https://vk.com/generictalks
+https://www.facebook.com/generictalks
+
+(Богдан сказал, что это 2й выпуск, потому что 1й мы решили перезаписать)
+
+0:00 - интро
+1:32 - будущее языков
+6:52 - скрытая сложность
+15:00 - о языках (pony, zig)
+28:00 - аллокаторы
+33:35 - aeron (not a chair)
+39:30 - generics
+45:30 - try proposal
+57:10 - следующий выпуск</description>
+            <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/721670086-generictalks-episode-1.m4a" length="82007387"/>
+            <itunes:image href="http://i1.sndcdn.com/artworks-000646130368-t83q8f-original.jpg"/>
+        </item>
+    </channel>
+</rss>
