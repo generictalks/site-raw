@@ -3,6 +3,22 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0005 - Defensive и чуть-чуть Offensive
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/735557974&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Все верно, 5й выпуск и с вами Богдан и Олег.
+
+- 00:00 - Использование Context не только для request scope
+- 13:00 - Названия переменных с типом error
+- 20:27 - Убираем причину возникновения багов а не только сам баг (+hexagonal architecture)
+- 32:05 - Как помочь пользователям библиотеки обработать ошибки и закрыть все ресурсы
+- 46:54 - Contract-based vs Defensive programming
+- 56:26 - Load balancing at Twitter
+- 1:08:45 - все сливается в Кафку и о следующих выпусках
+
+----------------------------------
+
 # Generic Talks 0004 - C++ и в гостях Данила Кутенин
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/733320718&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
