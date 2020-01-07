@@ -3,6 +3,22 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0006 - Подождём в очереди
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/739840858&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+С вами Богдан и Олег, вещи упомянутые в выпуске можно найти в нашем Телеграме t.me/generictalks
+
+00:00 - Начнём с очереди
+10:00 - Capacity planing, metrics
+23:25 - Когда работать асинхронно, как правильно? Архитектура SEDA
+42:28 - Твит Кармака о Python, C++, C# и Java и что уже железо
+47:40 - Не С++ единым, Rust no_std
+56:28 - И снова вернёмся к очередям
+1:02:05 - Классический race condition, о котором не все знают.
+
+----------------------------------
+
 # Generic Talks 0005 - Defensive и чуть-чуть Offensive
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/735557974&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
