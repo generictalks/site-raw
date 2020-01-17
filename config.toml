@@ -86,7 +86,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Spotify"
     icon = "icon fab fa-2x fa-spotify"
     weight = 3
-    url = "https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c"
+    url = "https://open.spotify.com/show/3Cb5XPaCkUaCP59rMzPLGX"
 [[params.social]]
     name = "Overcast"
     icon = "icon fas fa-2x fa-podcast"

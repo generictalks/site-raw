@@ -21,7 +21,7 @@ date: 2019-12-27T20:25:55+01:00
 
 - [iTunes](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299)
 
-- [Spotify](https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c)
+- [Spotify](https://open.spotify.com/show/3Cb5XPaCkUaCP59rMzPLGX)
 
 - [Overcast](https://overcast.fm/itunes1489980299/generic-talks)
 
