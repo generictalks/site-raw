@@ -3,6 +3,29 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0007 - Подождём в очереди
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746917420&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Богдан, Олег и Искандер опять собрались поговорить.
+
+Хотим напомнить, что лента подкаста находится в Телеграме, как и чат, где можно добавить вопросы и набросы: https://telegram.me/generictalks (инвайт в чат в описании)
+
+- 00:00:00 - Посчитать размер объекта в Go. Что может быть проще? Зачем вообще это делать?
+- 00:12:22 - Как ограничивают память другие известные проекты на Go. Разбираем подходы.
+- 00:17:00 - Как понять что мы достигли предела по оптимизациям и пора внедрять другие подходы. Шипилев и его график)
+- 00:20:22 - В бар заходит Искандер. Unsafe.Sizeof и отдельный пропозал.
+- 00:29:40 - Рекурсивный обход структур в хипе для расчета размера, потенциальные использования рантайма и сборщика мусора.
+- 00:33:46 - Как возможность расчета размеров в рантайме может открыть возможность для других оптимизаций.
+- 00:47:11 - Pluggable GC в Go стоит ли форкать стандартный компилятор и рантайм?
+- 00:50:11 - Говяжий язык. Beef - шаг вперед или очередной велосипед?
+- 01:02:30 - Actix-web - open source, восприятие критики и мнения которые ничего не значат.
+- 01:13:03 - Spinlock vs Mutex почему все так получилось? Почему так сложно правильно бенчмаркать?
+- 01:24:00 - Erlang vs Go vs Java vs NodeJS бенчмарк серверов который не смог. Как сделать adaptive capacity limiter вручную для того чтобы выровнять latency. Говорим о том как анализировать результаты бенчмарков, делать выводы и проверять гипотезы.
+- 01:37:25 - Затравочка будущих выпусков
+
+----------------------------------
+
 # Generic Talks 0006 - Подождём в очереди
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/739840858&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
