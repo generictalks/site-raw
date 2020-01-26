@@ -3,7 +3,7 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
-# Generic Talks 0007 - Подождём в очереди
+# Generic Talks 0007 - Ваши бенчмарки (скорее всего) ничего не значат
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/746917420&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
 
