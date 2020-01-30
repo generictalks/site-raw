@@ -25,7 +25,7 @@ date: 2019-12-27T20:25:55+01:00
 
 - [Overcast](https://overcast.fm/itunes1489980299/generic-talks)
 
-- [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMGNkZmUyOC9wb2RjYXN0L3Jzcw%3D%3D)
+- [Google Podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NzAyMDE4Njc3L3NvdW5kcy5yc3M)
 
 - [VK](https://vk.com/generictalks)
 
