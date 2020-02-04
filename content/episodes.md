@@ -3,6 +3,25 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0009 - Когда сервису хватит насыпать, в гостях Роман Хавроненко
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/755150785&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Богдан, Олег и специальный гость Роман Хавроненко из Cloudflare.
+
+- 00:00:00 - Вводная. Патроны. Гость Роман из Cloudflare.
+- 00:02:21 - С места в карьер. Есть ли замена ClickHouse? Druid, Redshift и ручные поделки. Как работать с большим количеством выборок в ClickHouse.
+- 00:13:55 - Отказоустойчивость. Минутка SRE. Graceful degradation. Планирование и внедрение SLA и SLO. Зачем нужен Error Budget. Травим байки.
+- 00:29:51 - Обузданый хаос. Как заставить своих программистов правильно обрабатывать ошибки и не падать по первому чиху. Поможет ли нам service mesh?
+- 00:37:25 - Где предел паранойи? Можно ли отхендлить какую угодно ошибку? Когда пора остановится?
+- 00:46:44 - Пытаемся разобрать конкретный пример и паттерны которые можно использовать.
+- 00:55:45 - Графиков так много что глаза разбегаются. Автоматический корреляционный анализ. Metrics Driven Development.
+- 01:07:58 - Adaptive capacity limiting и smart load balancing. Как косвенно или напрямую измерять загруженность сервера и почему мерять CPU load не всегда правильно.
+- 01:18:08 - Приоритизация трафика и load shedding. Как работать с запросами произвольной сложности. Event sourcing and CQRS.
+- 01:34:10 - Экзотические техники работы с перегрузками: батчинг, агрегация, сэмплирование.
+
+----------------------------------
+
 # Generic Talks 0008 - GC на серверах и трудностях разработки с concurrency
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/750892666&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
