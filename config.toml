@@ -60,7 +60,7 @@ disqusShortname = "yourdiscussshortname"
     name = "RSS"
     icon = "icon fas fa-2x fa-rss"
     weight = 1
-    url = "https://generictalks.com/feed.rss"
+    url = "http://feeds.soundcloud.com/users/soundcloud:users:702018677/sounds.rss"
 [[params.social2]]
     name = "Twitter"
     icon = "icon fab fa-2x fa-twitter"
