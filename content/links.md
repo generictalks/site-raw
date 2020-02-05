@@ -15,6 +15,10 @@ date: 2019-12-27T20:25:55+01:00
 
 - [Facebook](https://fb.com/generictalks)
 
+Где лоддержать подкаст:
+
+- [Patreon](https://patreon.com/generictalks)
+
 Где послушать:
 
 - [SoundCloud](https://soundcloud.com/generictalks)
@@ -30,4 +34,5 @@ date: 2019-12-27T20:25:55+01:00
 - [VK](https://vk.com/generictalks)
 
 Техподдержка:
+
 - [Github](https://github.com/generictalks)
