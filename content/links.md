@@ -33,6 +33,8 @@ date: 2019-12-27T20:25:55+01:00
 
 - [VK](https://vk.com/generictalks)
 
+- [Яндекс](https://music.yandex.ru/album/9937786)
+
 Техподдержка:
 
 - [Github](https://github.com/generictalks)
