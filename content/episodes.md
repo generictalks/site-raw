@@ -3,6 +3,22 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0011 - Go 1.14 и что он нам несёт
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/765312070&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Выпуск о новой версии Go, а еще и Java и как же весь runtime работает. С вами Олег, Богдан и Искандер. Ждем в нашем Телеграме @generictalks.
+
+- 00:00:00 - Вводная. Go 1.14
+- 00:01:00 - Изменения в языке и тулинге.
+- 00:07:34 - Новая оптимизация defer. Как это работало, как теперь будет работать. Хендлинг паник. Использование defer в performance-critical коде.
+- 00:22:52 - RISCV как новый экспериментальный таргет.
+- 00:29:24 - Некооперативная многозадачность. Изменения в скедулере чтобы поддержать асинхронный goroutine preemption. Говорим об общем устройстве многозадачности в текущем runtime и как оно изменится в 1.14. Консервативная сборка мусора.
+- 01:20:10 - Оптимизация аллокатора в 1.14. Общее устройство текущего аллокатора, как и почему его поменяли.
+- 01:53:04 - Оптимизация таймеров в рантайме
+
+----------------------------------
+
 # Generic Talks 0010 - Пару слов о статическом анализе кода
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/762550552&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
