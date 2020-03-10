@@ -3,6 +3,41 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0013 - Таймеры, почему языки такие, GopherСon, гость Александр Морозов
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/772162519&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Стабильная, как Go 1, тройка Generic Talks снова на связи. К нам зашел Александр Морозов, напомнить о GopherCon Russia 2020 и поговорить о таймерах.
+
+В Телеграме помимо канала есть и чат, там можно все обсудить t.me/generictalks
+
+- 00:00:00 - Гость Александр и его карьерный путь за руку с Go к C++
+- 00:06:52 - Как Гугл делает так, чтобы инженеры придерживались одного стиля написания кода. Анонс 2х докладов на GopherCon Russia от Александра и Елены Морозовы.
+- 00:08:25 - Говорим про таймеры в Go и вообще) Связь таймеров со scheduler. Структуры данных для хранения таймеров плюсы и минусы разных подходов.
+- 00:31:05 - Менеджмент сложности в языке и runtime. Гибкость и скорость экспериментов в разных языках.
+- 00:50:43 - Статья про то, как какой-то человек потратил целую жизнь зря из-за того, что начал работать с Go вместо Rust.
+- 01:17:09 - Spanner, и n00b intro в newSQL от Богдана :)
+
+----------------------------------
+
+# Generic Talks 0012 - Интерпретатор который нагибает плюсы, гость Александр Никитин
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/768079306&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Богдан, Олег и Александр (наш крутой гость) собрались поговорить про язык К и базу данных kdb.
+
+Александр еще ведёт 2 канала в Телеграме t.me/linkstream и t.me/notatky
+А еще напомним о нашем Патреоне www.patreon.com/generictalks
+
+- 00:00:00 - Гость Александр и его биржевые будни)
+- 00:18:40 - Что такое kdb и язык K? Как его придумали на что это похоже, зачем применяется?
+- 00:31:59 - Автовекторизация кода, встроеные типы языка, data-driven design. Сколько это стоит и как скейлится?
+- 00:43:34 - Как деплоить, мониторить и эксплуатировать такие системы? Как устроена репликация и отказоустойчивость?
+- 00:56:52 - А чем это отличается от NumPy или обычной библиотеки для векторных вычислений?
+- 01:06:00 - Какие есть проблемы чего хотелось бы добавить этой среде и языку? Завершающие мысли и обсуждение применимости этой технологии вне узкоспециализированных кейсов. Можно ли загонять все эти вычисления в GPU?
+
+----------------------------------
+
 # Generic Talks 0011 - Go 1.14 и что он нам несёт
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/765312070&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
