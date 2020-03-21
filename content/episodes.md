@@ -3,6 +3,18 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks 0014 - Live show, гость Юра
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/780503398&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Новый выпуск Generic Talks про GolangCI-Lint, как настраивать линтеры на CI, дизайнить API под батчинг по дефолту, делать кеширование и другие вещи. А еще к нам зашел Юра, наш друг и гость.
+
+Это запись live-подкаста которая также доступна в Youtube www.youtube.com/watch?v=RUVEewnD5ww
+
+В Телеграме помимо канала есть и чат, там можно все обсудить t.me/generictalks
+
+----------------------------------
+
 # Generic Talks 0013 - Таймеры, почему языки такие, GopherСon, гость Александр Морозов
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/772162519&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
