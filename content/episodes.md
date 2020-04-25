@@ -3,6 +3,95 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+----------------------------------
+# Generic Talks 0021 - В Гостях Артемий Рябинков И Мы Говорим О Всяком
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/807085078&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Этот выпуск был записан в разслабленом режиме после Stay homе и GOnline митапа.
+Мы разговаривали об самом митапе, докладах, немного о базах и всякой всячине.
+
+----------------------------------
+
+# Generic Talks 0020 - PVS И Его Деревья
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/803257603&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+У нас в гостях разработчики PVS-Studio Филипп Хандельянц и Юрий Минаев. Поговорили про внутренности их статического анализатора, необычные и хардкорные фичи:
+1) На каком представлении работают? 🌲🌳🌴
+2) Как это все умещают в память? 💾
+3) Как сделали однопроходный анализатор? 🚀
+4) Как кэшируют, работают с разными языками, обходят препроцессоры/макросы/темплейты и многое другое.
+
+📣 Еще PVS-Studio стали нашими спонсорами. 📣
+Здесь вы можете скачать PVS-Studio: bit.ly/3bhfzgm ✅
+и если ввести промокод #generictalks в поле "Сообщение" на странице скачивания, можно получить бесплатную лицензию на месяц, вместо 7 дней.
+
+----------------------------------
+# Generic Talks 0018 - В Гостях Алексей Акулович И Мы Говорим О Всяком
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/798773566&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+В Гостях Алексей Акулович.
+Мы поговорили про разработку игр как хобби, ограничение потребления памяти для процессов Go и о том как неправильно сравнивать программистов.
+
+Парочка ссылок:
+Go heap limits - go-review.googlesource.com/c/go/+/227767/
+Ludum dare 2020 - ldjam.com/
+
+Блоги про разработку игр:
+www.youtube.com/user/handmadeheroarchive/videos
+www.youtube.com/user/jblow888/videos
+www.youtube.com/channel/UCUmLRMER…tgnbFfknAg/videos
+www.youtube.com/user/ThinMatrix
+
+----------------------------------
+
+# Generic Talks 0017 - Говорим Про GPU С Георгием Евтушенко
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/794023801&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Говорим Про GPU.
+Гость Георгий Евтушенко (Georgy Evtushenko)
+Twitter: @g_evtushenko
+Blog: medium.com/@evtushenko.georgy
+
+1. Источники ускорения при использовании GPU.
+2. Специфика разработки под множественные GPU
+3. JIT компиляция как источник оптимизации
+4. HIP как способ поддержания единого кода для GPU от AMD и NVIDIA
+5. Подходы к поддержанию единого кода для GPU и CPU.
+
+----------------------------------
+
+# Generic Talks 0016 - Zig, LLVM и как всегда Go
+
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/786305233&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Разговариваем про LLVM 10, Zig CC, Lazy Values в Go, парсеры Прата.
+
+----------------------------------
+
+# Generic Talks 0015 - Что же там происходит в CPU и гость Илья Токарь
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/783552604&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+15й выпуск Generic Talks, к нам пришел супер-гость Илья Токарь, и выпуск получился крутой.
+
+- 00:00:00 - Илья из Гугла и его перформанс ремесло.
+- 00:05:00 - Говорим об ProtocolBuffers и отличиях от FlatBuffers.
+- 00:13:30 - Пример прикладной оптимизации: сериализация float.
+- 00:35:54 - Как собеседовать перформанс инженера? На что обращать внимание?
+- 00:21:40 - Насколько часто мы сваливаемся в асемблер кода оптимизируем последние процентики?
+- 00:40:27 - Как мы следим за прогресом Go и сколько мы будем оптимизировать всего когда появятся generics.
+- 01:02:44 - Костыли для C++ которые делают его немного безопасние vs костыли которые делают Java быстрее.
+- 01:25:00 - Можно ли изменить сalling convention для Go?
+- 01:42:27 - Закон Мура умер? Что теперь делать? Можем ли мы передвинуть примитивные структуры данных в камень? Говорим про FPGA.
+- 02:16:40 - Сколько оверхеда вносит виртуализация. Почему между скоростью и безопасностью мы выбираем скорость? JavaScript vs C++ vs Rust - кто к кому заходит на поляну?
+
+----------------------------------
+
 # Generic Talks 0014 - Live show, гость Юра
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/780503398&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
