@@ -4,6 +4,34 @@ date: 2019-12-27T20:25:48+01:00
 ---
 
 ----------------------------------
+
+# Generic Talks 0024 - Архивный Выпуск С Юраном (Yuriy Nasretdinov)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/819097501&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Всем привет, мы на этой неделе не записывались, но приготовили вам сюрприз из нашего архива: офигенный выпуск с Yuriy Nasretdinov.
+
+Тем временем приходите к нам в bit.ly/3bpP7QL тут можно обсудить выпуски, задать вопросы ведущим и предложить темы для следующих выпусков.
+Если хотите прийти в гости пишите или оставить анонимный отзыв пишите сюда: @generictalks_bot
+
+----------------------------------
+
+# Generic Talks 0023 - В Гостях Александр Разумов И Денис Исаев
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/813477715&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Мы поговорили об GolangCI-Lint, WebRTC на Go, а также про новые языки и их адопшен в больших компаниях.
+
+----------------------------------
+
+# Generic Talks 0022 - В Гостях Илья Токарь И Мы Говорим Об Диктаторстве И Монополиях
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/810001666&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+У нас в гостях Илья Токарь и мы поговорили о дикататуре в Open Source, монополии в браузерах, будущем Go и еще о всяких вещах.
+
+----------------------------------
+
 # Generic Talks 0021 - В Гостях Артемий Рябинков И Мы Говорим О Всяком
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/807085078&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
