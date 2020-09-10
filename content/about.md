@@ -3,7 +3,7 @@ title: "О нас"
 date: 2019-12-27T20:17:24+01:00
 ---
 
-Душевные беседы о программировании с Олегом, Богданом и Искандером.
+Душевные беседы о программировании с Олегом и Богданом.
 
 Говорим о коде:
 
@@ -20,4 +20,3 @@ date: 2019-12-27T20:17:24+01:00
 | :----------------| -------------------------------------------------- | ---------------------------------------------- |
 | Олег Ковалев     | [@oleg_kovalov](https://twitter.com/oleg_kovalov)  | [@cristaloleg](https://github.com/cristaloleg) |
 | Богдан Сторожук  | [@BStorozhuk](https://twitter.com/BStorozhuk)      | [@storozhukBM](https://github.com/storozhukBM) |
-| Искандер Шарипов | [@quasilyte](https://twitter.com/quasilyte)        | [@quasilyte](https://github.com/quasilyte)     |
