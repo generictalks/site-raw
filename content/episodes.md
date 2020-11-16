@@ -3,6 +3,273 @@ title: "Выпуски"
 date: 2019-12-27T20:25:48+01:00
 ---
 
+# Generic Talks S02E08 - Вопросы И Ответы
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/929891476&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+1. Обязан ли мейнтейнер проекта с открытым кодом фиксить баги и не просить за это деньги?
+- news.ycombinator.com/item?id=25099862
+2. О структурировании проектов, архитектуре и переусложнении
+3. Software engineering vs. config editing
+4. "Книжный клуб" читаем и обсуждаем Titus Winters, Tom Manshreck, and Hyrum Wright / Software Engineering at Google: Lessons Learned from Programming Over Time (2020) CHAPTER 2 and 3 - "How to Work Well on Teams" and "Knowledge sharing"
+
+Мы не успели ответить на все ваши вапросы поэтому постараемся обсудить их в одном из следующих выпусков.
+Если Вы хотели бы послушать наше интервью с кем-то интересным или хотите сами прийти - присылайте предложения сюда: @generictalks_bot
+
+# Generic Talks S02E07 - Тестирование Системного Програмного Обеспечения
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/925580203&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Состав: Олег и Богдан и гость Сергей Бронников
+
+- Тестирование операционных систем, БД и другого низкоуровневого и системного ПО. Как искать баги там где их никто не ждет?
+- Тестирование распределенных систем. Проверка коректности и отказоустойчивости.
+- Мутационное тестирование системного и прикладного ПО.
+- Аналитика и метрики в тестировании.
+- Эффективность автоматического тестирования.
+
+# Generic Talks S02E06 - Девиртуализированый Контекст Отмены На Сжатом Дереве Большой Длины
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/921639688&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+1. Timeouts and cancellation for humans
+- vorpus.org/blog/timeouts-and-c…llation-for-humans/
+2. Adaptive Radix Tree и The ART of Practical Synchronization
+- 15721.courses.cs.cmu.edu/spring2016/p…icde2013.pdf
+- db.in.tum.de/~leis/papers/artsync.pdf
+3. Go 1.16 - early devirtualization pass и другие предложения по улучшению Go
+- github.com/golang/go/issues/33160
+- github.com/golang/go/issues/33502
+4. "Книжный клуб" читаем и обсуждаем Titus Winters, Tom Manshreck, and Hyrum Wright / Software Engineering at Google: Lessons Learned from Programming Over Time (2020) CHAPTER 1 - What Is Software Engineering?
+
+# Generic Talks S02E05 - Предметные сервисы и атомарные деревья
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/917528134&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+1. Domain-Oriented Microservice Architecture
+- eng.uber.com/microservice-architecture
+2. Bw-Tree
+- www.cs.cmu.edu/~huanche1/publica…s/open_bwtree.pdf
+- sled.rs
+3. "Книжный клуб" читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 4 - Encoding and Evolution
+
+# Generic Talks S02E04 - Магия И Computer Science В GoLand
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/915026986&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+У нас в гостях Артем Хвастунов и Марат Хабибуллин - разработчики GoLand из JetBrains.
+И разговаривали мы об внутреностях и особеностях этой самой продвинутой IDE для Go.
+
+Вопросы которые мы обсудили:
+- История. Как вообще родилась IDEA (первая IDE от JetBrains), почему написана на Java?
+- Как устроен отказоустойчивый и самовосстанавливающийся при сломаном коде парсинг?
+- Как выглядит внутреннее представление кода какие структуры данных используются внутри?
+- Зачем вам своя виртуальная файловая система?
+- Что делает GoLand когда долго что-то индексирует или делает начальную индексацию?
+- Как вообще живется на JVM не напрягает ли GC?
+- Как устроены плагины и почему иногда надо перегружать IDE для их установки?
+- Language Server Protocol, есть ли планы по поддержке?
+- Как тестировать такую сложную и гибкую систему с сотнями разных конфигураций и молудей?
+- Как начался GoLand как плагин и как потом переделался в самостоятельную IDE?
+- Переиспользуете ли какие-то части тулинга Go?
+- Специфичные инспекции и смарт комплиты.
+- Статистика - какими комплитами и постфиксами люди пользуются, какие ошибки вы чаще всего допускают.
+- Интеграция с дебагером.
+- Поддержка модулей.
+- Пропоузал по дженерикам. Насколько сложно их будет поддержать в IDE?
+
+Ссылочки:
+- Доклад "Алексей Кудрявцев — Computer Science еще жива" bit.ly/3kkixoH
+- GoLand - www.jetbrains.com/go/
+
+# Generic Talks S02E03 - Языковая блокировка с рекурсивным обходом на диске
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/912865690&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+1. Github Codespaces
+- github.com/features/codespaces
+2. О причинах появления языков:
+- nim-lang.org
+- ziglang.org
+- www.beeflang.org
+- www.red-lang.org
+3. Locking in WebKit:
+- webkit.org/blog/6161/locking-in-webkit/
+- aspenuwu.me/posts/rust-optimization.html
+- github.com/Amanieu/parking_lot
+4. Type filters & Ruleguard
+- twitter.com/dgryski/status/1317245210041012224
+- Что такое фильтры типов в ruleguard
+- Фильтры структурных типов в ruleguard (type matching)
+- Underlying types
+- Что означает “contains?”
+- Как выразить фильтр для подвыражения фильтра bit.ly/2FEfEjq
+
+5. "Книжный клуб" читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 3 - Storage and Retrieval
+
+На следующий раз в "Книжный клуб" читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 4 - Encoding and Evolution
+Свои вопросы и заметки по главе пишите сюда: @generictalks_bot
+
+# Generic Talks S02E02 - Generic заворушка
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/908923132&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+1. Как будут имплементировать generics в Go? Осуждаем возможные варианты, их преимущества и недостатки.
+- обусждение: groups.google.com/g/golang-dev/c/OcW0ATRS4oM
+- имплементация в Swift: www.youtube.com/watch?v=ctS8FzqcRug
+2. Пишем БД на языках с рантаймом, чего не хватает?
+- крутой оптимизирующий компилятор
+- доступ к векторизированым операциям
+- отсутствие глобального хипа по дефолту
+- гранулярный контроль над скедулером
+- возможность работы с памятью мимо сборщика муссора
+- переписать стд либ чтобы она по дефолту меньше аллоцировала и давала контроль над аллокациями
+- дать возможность четко отслеживать размеры обьектов
+- сделать апи для фриза обьектов при шаринге между горутинами
+- персистентные структуры данных
+3. "Книжный клуб" читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 2 - Data Models and Query Languages
+3.1. Обсуждаем вопросы к предыдущей главе.
+
+На следующий раз в "Книжный клуб" читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 3 - Storage and Retrieval
+Свои вопросы и заметки по главе пишите сюда: @generictalks_bot
+
+# Generic Talks S02E01 - Мы опять в деле
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/904614946&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Старт второго сезона. Новые темы, рубрики, гости...
+В этом выпуске оригинальный состав Олег, Искандер и Богдан.
+
+1. Энтерпрайз ли язык этот Go?
+- bit.ly/34jnabS
+2. Challenges in Thread-per-core Implementations. & Vectorized.io blog.
+- bit.ly/3ivwYEL
+- vectorized.io/tpc-buffers/
+- www.youtube.com/watch?v=p8d28t4qCTY
+3. DigitalOcean's Hacktoberfest is Hurting Open Source.
+4. Анонс новой рубрики. "Книжный клуб". Читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 1 - Reliable, Scalable, and Maintainable Applications.
+5. Чем смыть горечь после интевью или "Коллеги, вы меня огорчаете."
+- bit.ly/3jvEj8p
+6. Игрушка для программистов, кодинг на Go, yaegi внутри wasm для serverless исполнения кода на клиенте.
+- quasilyte.dev/gophers-and-dragons/
+7. Сжатия кода, а разжатие через gofmt; serverless шаринг кода через lz-compress для данных в URL.
+- github.com/quasilyte/minformat
+
+На следующий раз в "Книжный клуб" читаем и обсуждаем Martin Kleppmann / Designing Data-Intensive Applications (2017) CHAPTER 2 - Data Models and Query Languages.
+Свои вопросы и заметки по главе пишите сюда: @generictalks_bot
+
+# Generic Talks 0035 - Агрегатор Новостей Для Телеграм
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/877497451&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+В гостях у нас Данила Кутенин и Артемий Рябинков. Мы говорим про конкурс Телеграма по созданию агрегатора новостей: общая архитектура, распожнавания языка, категоризация, создание тематической ленты и оптимизации. Также упомянули несколько других тем)
+
+# Generic Talks 0034 - В Гостях Иван Присяжный. Базы данных, транзакции, Go, Java
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872947009&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+В гостях Иван Присяжный из Scylla. Поговорили про такие базы как Sled, Aerospike, LMDB. Про языки Rust, Go, Java. Немножко про транзации и процы.
+
+# Generic Talks 0033 - В Гостях Иван Углянский. Рантаймы, Сборщики Мусора, Будущее JVM
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/861489127&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+В гостях Иван Углянский.
+Мы поговорили про:
+- cборщики мусора: двигающие и недвигающие, поколенчиские и нет, консервативные и точные
+- cэйфпойнты, кооперативная и принудительная остановка потоков выполнения
+- как дружить толстый рантайм с нативными вызовами: JNI, Panama
+- немножко затронули другие большие проекты в Java мире: Valhala, Loom
+
+# Generic Talks 0032 - Новости и вопросы слушателей
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/861474739&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Вместе с Егором мы обсудили последние новости про Jai и Zig, а также ответили на вопросы слушателей.
+
+# Generic Talks 0031 - Байки про найм и собеседования
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/861454627&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Небольшой выпуск в котором мы обсудили найм, собеседования, задачки, отзывы и просто случаи из жизни.
+
+# Generic Talks 0030 - В Гостях Александр Валялкин
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844917961&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+В гостях Александр Валялкин автор FastHttp и VictoriaMetrics.
+Мы поговорили про то как команда VictoriaMetrics пилит супер быструю и оптимизированую базу данных для временых рядов с упором на мониторинг и совместимую по протоколу с Prometheus.
+Обсудили:
+- как устроена архитектура
+- внутренние структры данных
+- менеджмент памяти
+- лейаут данных на диске
+- работу с кешами
+- ужатие точек
+- всякие оптимизации которые применяются
+- отказоустойчевости и востановление после падений
+- будущие планы и развитие
+
+Еще на закуску мы с Олегом обсудили новый пропоузал про дженерики в Go (в гости забежал Артём от VictoriaMetrics!).
+
+# Generic Talks 0029 - Что Нового В Go 1.15. Новый Линкер. Аллокатор на передаче сообщений
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/842702713&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Что Нового В Go 1.15. Новый Линкер. Аллокатор на передаче сообщений.
+Конец записи у нас немного повредился поэтому без прощаний)
+
+https://tip.golang.org/doc/go1.15
+
+https://docs.google.com/document/d/1D13Qh…efEd6_k1z91U/view
+
+https://github.com/microsoft/snmalloc
+
+# Generic Talks 0028 - Басни Из Прода
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836616832&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Выпуск в котором:
+- мы травили басни из прода
+- поясняли за рективщину
+- обсуждали статью об том что компилятору Go пора становится более умным
+- ну и ГУЛАГ, рабов и расстрельные списки
+
+# Generic Talks 0027 - В Гостях Егор Мыскин
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836602258&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+Мы говорили об вызовах написания рекламного серверсайда, Go, базах данных Aerospike, Postgres, Casandra, Druid и многом другом.
+
+# Generic Talks 0025 - В Гостях Слава Бахмутов
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/824042842&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
+У нас в гостях Слава Бахмутов из GolangShow.
+Мы говорили про то как был устроен бекенд в Dropbox:
+- как были устроены сервисы и как они развивались со временем
+- какие языки использовались, какие прижились и как проходили перезды с одних технологий на другие
+- монорепозиторий, инфраструктура сборки и разработки
+- как устроена интроспекция: логеры, мониторинг, обнаружение ошибок
+- и самое вкусное 😀: масштабирование баз данных, шардирование, умные прокси сервисы, отказоустойчивость и управление трафиком...
+
+Eще поговорили об стартапе над которым сейчас работает Слава: в чем идея, как все устроено внутри, на чем написано, как планируете масштабировать и делать большие ивенты...
+
+В конце немного про переезды и жизнь в разных странах 🛤
+
+Полезные материалы:
+- протоколы для коммуникации: dropbox.tech/infrastructure/cou…-migration-to-grpc
+- графовая база edgestore с бекендом на mysql: dropbox.tech/infrastructure/rei…roducing-edgestore
+- инцидент менеджмент и какие-то веселые истории из прода: medium.com/life-inside-dropbox…e-ever-3d5e2d502062
+- небольшой подкаст про потоковые кодеки и всякие сетевые штуки, который мы обещали найти слушателям на стриме в Youtube. ☣️☣️☣️ Но будте осторожны авторы подкаста хардкорные последователи FP 👹: www.youtube.com/watch?v=5UNbZzOA-70
+
+Приходите к нам в bit.ly/3bpP7QL тут можно обсудить выпуски, задать вопросы ведущим и предложить темы для следующих выпусков.
+Если хотите прийти в гости пишите или оставить анонимный отзыв пишите сюда: @generictalks_bot
+
+🎙Наш канал в YouTube -  
+📹 Шоу с код ревью и кучей интересных советов - bit.ly/2zc2w1j (и Телеграм @good_bad_reviewer)
+💵 Patreon - www.patreon.com/generictalks
+
 ----------------------------------
 
 # Generic Talks 0024 - Архивный Выпуск С Юраном (Yuriy Nasretdinov)
